@@ -1,1 +1,1 @@
-web: build/install/example/bin/example
+web: ./build/install/ktor-gradle-sample/bin/ktor-gradle-sample
