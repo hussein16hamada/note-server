@@ -1,1 +1,1 @@
-web: ./build/install/ktor-gradle-sample/bin/ktor-gradle-sample
+web: ./build/install/com.example.note-server/bin/com.example.note-server
